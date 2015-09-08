@@ -5,7 +5,7 @@ Usefull with [angular-ext](https://github.com/knyga/angular-ext).
 ## Installation
 ```bower install --save angular-scope-params``` or add `angular-scope-params` to your bower.json and do ```bower install```.
 
-Require script after angular!
+Add `scope-params.js` script after angular.
 
 ## Functions
 * `$scope.watchParam(name, fn, recursive)`
