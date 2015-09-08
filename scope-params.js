@@ -8,7 +8,7 @@ angular.module('ScopeParams', [])
       return $scope._params[name];
     };
     $scope.watchParam = function(name, fn, recursive) {
-      $scope.$watch('_params["'+name+'"]', fn);
+      $scope.$watch('_params["'+name+'"]', fn, recursive);
     };
   }]);
 
