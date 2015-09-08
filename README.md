@@ -3,9 +3,9 @@ Abstract controller to encapsulate scope params management.
 Usefull with [angular-ext](https://github.com/knyga/angular-ext).
 
 ## Methods
-`$scope.watchParam(name, fn, recursive)`
-`$scope.getParam(name)`
-`$scope.setParam(name, value)`
+* `$scope.watchParam(name, fn, recursive)`
+* `$scope.getParam(name)`
+* `$scope.setParam(name, value)`
 
 ## Code usage examples
 ```
