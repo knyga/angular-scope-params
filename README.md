@@ -22,6 +22,8 @@ angular.extModule('SegmentModule')
   ]);
 ```
 
+Scope of `SegmentCreateCtrl` is parent scope of `SegmentCreateDetailsCtrl`.
+
 ```
 angular.module('SegmentModule')
   .controller('SegmentCreateDetailsCtrl', ['$scope',
