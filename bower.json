@@ -1,0 +1,25 @@
+{
+  "name": "angular-scope-params",
+  "version": "0.0.1",
+  "homepage": "https://github.com/knyga/angular-scope-params",
+  "authors": [
+    "Oleksandr Knyga <oleksandrknyga@gmail.com>"
+  ],
+  "description": "Abstract controller to encapsulate scope params management",
+  "main": "scope-params.js",
+  "keywords": [
+    "angular",
+    "knyga",
+    "oknyga",
+    "params",
+    "scope",
+    "watch",
+    "setter",
+    "getter",
+    "encapsulation",
+    "angularjs",
+    "js",
+    "javascript"
+  ],
+  "license": "MIT"
+}
